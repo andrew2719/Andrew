@@ -10,7 +10,7 @@
 ### 💡 **What I Explore:**
 - 🖥️ **Programming Languages**: Python, C++, Java, C
 - 🌐 **Frameworks**: Django, FastAPI, Spring Boot
-- 🛠️ **Blockchain Development**: Ethereum, Solidity, Brownie, IPFS
+- 🛠️ **Blockchain Development**: Ethereum, Solidity, ApeWorX, IPFS
 - 🗄️ **Databases**: SQL, SQLite, MongoDB, Redis
 - 📜 **Version Control**: Git
 - 💻 **Web Technologies**: HTML, CSS, JavaScript
